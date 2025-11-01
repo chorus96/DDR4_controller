@@ -1,4 +1,3 @@
-// Authors: Matthias Jung (2017) and Chirag Sudarshan
 
 module mux (input [31:0] in, input [4:0] addr, output logic out);
 

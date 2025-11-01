@@ -1,7 +1,6 @@
 // Uses load pattern as reset to reset the pseudo random number generator
 // Input pattern is used as seed
 // need another reset to restart for the comparison
-//Author: Deepak M. Mathew, EMS, TUKL
 
 
 module lfsr_gen

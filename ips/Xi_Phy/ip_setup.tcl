@@ -1,8 +1,5 @@
 ###############################################################################
-# TU KL MIG Phy IP Setup
-# AUTHOR: Chirag Sudarshan
-# DATE  : 15.01.2020
-# Script: ip_setup.tcl
+# MIG Phy IP Setup
 ###############################################################################
 
 #Full Path of the location where TU-KL memory controller is cloned - Should be configured

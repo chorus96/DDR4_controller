@@ -1,31 +1,8 @@
 // ============================================================================= //
-// Company:        Multitherman Laboratory @ DEIS - University of Bologna        //
-//                    Viale Risorgimento 2 40136                                 //
-//                    Bologna - fax 0512093785 -                                 //
-//                                                                               //
-// Engineer:       Davide Rossi - davide.rossi@unibo.it                          //
-//                                                                               //
-//                                                                               //
-// Additional contributions by:                                                  //
-//                                                                               //
-//                                                                               //
-//                                                                               //
-// Create Date:    01/02/2014                                                    //
 // Design Name:    AXI 4 INTERCONNECT                                            //
 // Module Name:    axi_w_buffer                                                  //
-// Project Name:   PULP                                                          //
-// Language:       SystemVerilog                                                 //
 //                                                                               //
 // Description:   master slice ( FIFO wrapper  ) for write channel               //
-//                                                                               //
-// Revision:                                                                     //
-// Revision v0.1 - 01/02/2014 : File Created                                     //
-//                                                                               //
-//                                                                               //
-//                                                                               //
-//                                                                               //
-//                                                                               //
-//                                                                               //
 // ============================================================================= //
 
 

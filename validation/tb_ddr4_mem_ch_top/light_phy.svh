@@ -1,5 +1,4 @@
-// AUTHOR: Jan Lappas
-// Date : 09.03.2018
+
 `ifndef LIGHT_PHY_SVH
 `define LIGHT_PHY_SVH
 

@@ -1,6 +1,4 @@
 // MEMORY CHANNEL TOP FILE (AXI -> MEMORY CONTROLLER -> x8 PHY)
-// AUTHOR: Chirag Sudarshan, Jan Lappas, Deepak M. Mathew Christian Weis
-// DATE: 21.03.2018
 
 `include "light_phy.svh"
 

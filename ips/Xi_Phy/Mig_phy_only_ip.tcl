@@ -1,8 +1,5 @@
 ###############################################################################
-# TU KL MIG Phy IP Generator Script
-# AUTHOR: Chirag Sudarshan
-# DATE  : 30.11.2019
-# Script: Mig_phy_only_ip.tcl
+# MIG Phy IP Generator Script
 ###############################################################################
 
 source ip_setup.tcl
